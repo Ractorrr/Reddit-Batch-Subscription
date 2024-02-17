@@ -16,6 +16,7 @@ Dive into Reddit communities like never before! With this Python script, you can
 
 ```
 git clone https://github.com/your_username/reddit-batch-subscribe.git
+Make sure to add (.) in front of "env" files
 cd reddit-batch-subscribe
 ```
 
